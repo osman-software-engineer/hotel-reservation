@@ -49,10 +49,10 @@ public class HotelReservationRepositoryImpl implements HotelReservationRepositor
     }
 
     public void addTestData(){
-        Customer cust1 = new Customer("Osman","Mohammed","Osmohammed@deloitte.com");
-        Customer cust2 = new Customer("firdous","fatima","firdous@deloitte.com");
-        Customer cust3 = new Customer("khalid","Mohammed","khalid@deloitte.com");
-        Customer cust4 = new Customer("Musab","Mohammed","musab@deloitte.com");
+        Customer cust1 = new Customer("Osman","Mohammed","osman@gmail.com");
+        Customer cust2 = new Customer("firdous","fatima","firdous@gmail.com");
+        Customer cust3 = new Customer("khalid","Mohammed","khalid@gmail.com");
+        Customer cust4 = new Customer("Musab","Mohammed","musab@gmail.com");
         customersList.add(cust1);
         customersList.add(cust2);
         customersList.add(cust3);

@@ -1,1 +1,1 @@
-# https://github.com/osmanacademy/java-programming-project-1/wiki
+# https://github.com/osmanacademy/java-hotel-reservation/wiki
